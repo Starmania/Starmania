@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Starmania
-- 👀 I’m interested in Programation in Python shenanigans, cybersecurity (bot detection) and any new things a little bit special.
-- 1st Year in CS
+- 👀 I’m interested in Programation, more exactly Python shenanigans, cybersecurity (bot detection) and any new things a little bit special.
+- 1st Year in CS, but I love to do random things aside from this.
